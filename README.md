@@ -16,12 +16,14 @@
 
 <p align="center">
   <a href="#" alt="Users" title="Racha">
-    <img src="https://streak-stats.demolab.com?user=JosmanAltamira&theme=transparent&hide_border=true&locale=es&exclude_days=Sun%2CSat&fire=B1EB2C&count_private=true"/></a>
+    <img src="https://streak-stats.demolab.com?user=JosmanAltamira&theme=transparent&hide_border=true&locale=es&fire=B1EB2C&count_private=true"/></a>
 </p>
+
+<!-- &exclude_days=Sun%2CSat -->
 
 <p align="center">
   <a href="#" alt="Users" title="Estadistica">
-    <img src="https://github-readme-stats.vercel.app/api?username=JosmanAltamira&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&locale=es&show_icons=true&hide=contribs,prs,issues"/></a>
+    <img src="https://github-readme-stats.vercel.app/api?username=JosmanAltamira&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&locale=es&show_icons=true&hide=contribs,prs,issues&include_all_commits=false"/></a>
 </p>
 
 <p align="center">
