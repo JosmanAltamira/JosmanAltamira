@@ -14,9 +14,15 @@
 </div>
 </div>
 
-<p align="center">
+<!-- <p align="center">
   <a href="#" alt="Users" title="Racha">
     <img src="https://streak-stats.demolab.com?user=JosmanAltamira&theme=transparent&hide_border=true&locale=es&fire=B1EB2C&count_private=true"/></a>
+</p>-->
+<!-- &count_private=true-->
+
+<p align="center">
+  <a href="#" alt="Users" title="Racha">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosmanAltamira&theme=transparent&hide_border=true&fire=B1EB2C&locale=es&count_private=true"/></a>
 </p>
 
 <!-- &exclude_days=Sun%2CSat -->
@@ -30,3 +36,5 @@
   <a href="#" alt="Users" title="Lenguajes">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosmanAltamira&layout=compact&theme=transparent&hide_border=true&langs_count=10&locale=es&hide=blade"/></a>
 </p>
+
+
