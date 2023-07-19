@@ -5,9 +5,12 @@
   <a href="https://facebook.com/josman.altamira">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="https://visitcount.itsvg.in">
+<!--   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=JosmanAltamira&icon=0&color=0" alt="You Badge"/>
-  </a>
+  </a> -->
+ <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=JosmanAltamira&label=Vistas%20de%20perfil&color=9&icon=4&pretty=true" />
+</a>
   <a href="https://stackoverflow.com/users/21409844/">
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Badge"/>
   </a>
