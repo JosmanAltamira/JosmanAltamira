@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="#" alt="Users" title="Lenguajes">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosmanAltamira&layout=compact&theme=transparent&hide_border=true&langs_count=10&locale=es&hide=blade,css&count_private=true"/></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosmanAltamira&layout=compact&theme=transparent&hide_border=true&langs_count=10&locale=es&hide=blade,css,scss&count_private=true"/></a>
 </p>
 
 
