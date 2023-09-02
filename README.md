@@ -35,9 +35,14 @@
     <img src="https://github-readme-stats.vercel.app/api?username=JosmanAltamira&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&locale=es&show_icons=true&hide=contribs,prs,issues&include_all_commits=false"/></a>
 </p>
 
+<!-- &hide=blade,css,scss -->
+
 <p align="center">
   <a href="#" alt="Users" title="Lenguajes">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosmanAltamira&layout=compact&theme=transparent&hide_border=true&langs_count=10&locale=es&hide=blade,css,scss&count_private=true"/></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosmanAltamira&layout=compact&theme=transparent&hide_border=true&langs_count=15&locale=es&count_private=true"/>
+</a>
 </p>
+
+
 
 
