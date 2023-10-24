@@ -37,9 +37,10 @@
 
 <!-- &hide=blade,css,scss -->
 
+<!-- Lenguaje -->
 <p align="center">
   <a href="#" alt="Users" title="Lenguajes">
-    <img src="https://estadistica-ll8u.vercel.app/api/top-langs/?username=JosmanAltamira&layout=compact&theme=transparent&hide_border=true&langs_count=17&locale=es&count_private=true&hide=hack"/>
+    <img src="https://estadistica-ll8u.vercel.app/api/top-langs/?username=JosmanAltamira&layout=compact&theme=transparent&hide_border=true&langs_count=20&locale=es&count_private=true&hide=hack,shell"/>
 </a>
 </p>
 
