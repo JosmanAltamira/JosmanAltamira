@@ -44,5 +44,51 @@
 </a>
 </p>
 
+<p align="center">
+<h3 align="center"> <strong>Desarrollo</strong></h3>
+</p>  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,laravel,bootstrap,flask,fastapi,dotnet" />
+  </a>
+</p>
+
+<p align="center">
+<h3 align="center"> <strong> Software </strong></h3>
+</p>  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,postman,visualstudio,vscode" />
+  </a>
+</p>
+
+
+<p align="center">
+<h3 align="center"> <strong> Bases de datos </strong></h3>
+</p>  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+  </a>
+</p>
+
+<p align="center">
+<h3 align="center"> <strong> Herramientas de diseño </strong></h3>
+</p>  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ps,figma,ai" />
+  </a>
+</p>
+
+<p align="center">
+<h3 align="center"> <strong> Nube </strong></h3>
+</p>  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,docker,firebase" />
+  </a>
+</p>
+
 
 
