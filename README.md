@@ -49,7 +49,9 @@
 </p>  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,laravel,bootstrap,flask,fastapi,dotnet" />
+    <img src="https://skillicons.dev/icons?i=angular,laravel,bootstrap,flask,fastapi,dotnet"/>
+    <img src="https://www.pngrepo.com/png/353912/512/ionic-icon.png" height='45' width='45'/>
+    <img src="https://i.loli.net/2020/11/18/LDdrkAqs4JmwjGu.png" height='50' width='50'/>
   </a>
 </p>
 
@@ -87,6 +89,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure,docker,firebase" />
+    <img src="https://th.bing.com/th/id/OIP.DjK9s9K7Rq3jJ9AgJnuI6wHaHa?rs=1&pid=ImgDetMain" height='45' width='45'/>
   </a>
 </p>
 
