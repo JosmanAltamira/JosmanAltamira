@@ -30,11 +30,14 @@
 
 <!-- &exclude_days=Sun%2CSat -->
 
-<p align="center">
+<!--<p align="center">
   <a href="#" alt="Users" title="Estadistica">
     <img src="https://github-readme-stats.vercel.app/api?username=JosmanAltamira&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&locale=es&show_icons=true&hide=contribs,prs,issues&include_all_commits=false"/></a>
-</p>
+</p>  -->
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/JosmanAltamira/JosmanAltamira/output/snake.svg" alt="Snake animation" />
+</p>
 <!-- &hide=blade,css,scss -->
 
 <!-- Lenguaje -->
