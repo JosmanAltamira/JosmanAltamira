@@ -41,63 +41,41 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/JosmanAltamira/JosmanAltamira/output/snake.svg" alt="Snake animation" />
 </p>
-<!-- &hide=blade,css,scss -->
+<!-- Lenjuages-->
+<img align="right" src="https://estadistica-ll8u.vercel.app/api/top-langs/?username=JosmanAltamira&layout=compact&theme=transparent&hide_border=true&langs_count=20&locale=es&count_private=true&hide=hack,shell"/>
 
-<!-- Lenguaje -->
-<p align="center">
-  <a href="#" alt="Users" title="Lenguajes">
-    <img src="https://estadistica-ll8u.vercel.app/api/top-langs/?username=JosmanAltamira&layout=compact&theme=transparent&hide_border=true&langs_count=20&locale=es&count_private=true&hide=hack,shell"/>
-</a>
-</p>
-
-<p align="center">
-<h3 align="center"> <strong>Desarrollo</strong></h3>
-</p>  
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,laravel,bootstrap,flask,fastapi,dotnet"/>
-    <img src="https://www.pngrepo.com/png/353912/512/ionic-icon.png" height='45' width='45'/>
-    <img src="https://i.loli.net/2020/11/18/LDdrkAqs4JmwjGu.png" height='50' width='50'/>
-  </a>
-</p>
-
-<p align="center">
-<h3 align="center"> <strong> Software </strong></h3>
-</p>  
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,postman,visualstudio,vscode" />
-  </a>
-</p>
-
-
-<p align="center">
-<h3 align="center"> <strong> Bases de datos </strong></h3>
-</p>  
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-  </a>
-</p>
-
-<p align="center">
-<h3 align="center"> <strong> Herramientas de diseño </strong></h3>
-</p>  
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,figma,ai" />
-  </a>
-</p>
-
-<p align="center">
-<h3 align="center"> <strong> Nube </strong></h3>
-</p>  
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,docker,firebase" />
-    <img src="https://th.bing.com/th/id/OIP.DjK9s9K7Rq3jJ9AgJnuI6wHaHa?rs=1&pid=ImgDetMain" height='45' width='45'/>
-  </a>
-</p>
-
+### 🛠 &nbsp;Tecnologias
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+\
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![FastApi](https://img.shields.io/badge/-FastApi-05122A?style=flat&logo=fastapi)&nbsp;
+![.Net](https://img.shields.io/badge/-.Net-05122A?style=flat&logo=.net)&nbsp;
+![Ionic](https://img.shields.io/badge/-Ionic-05122A?style=flat&logo=ionic)&nbsp;
+![Android](https://img.shields.io/badge/-AndroidStudio-05122A?style=flat&logo=androidstudio)&nbsp;
+\
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Gitlab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+\
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+\
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=azure)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
+![Railway](https://img.shields.io/badge/-Railwey-05122A?style=flat&logo=railway)&nbsp;
+\
+![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
+![Postgresql](https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=postgresql)&nbsp;
 
 
