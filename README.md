@@ -19,9 +19,9 @@
 
 <p align="center">
   <a href="#" alt="Users" title="Racha">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosmanAltamira&theme=transparent&hide_border=true&fire=B1EB2C&locale=es&count_private=true"/></a>
+    <img src="https://statsjosman.vercel.app?user=JosmanAltamira&theme=transparent&hide_border=true&locale=es" alt="GitHub Streak" />
+  </a>
 </p>
-
 <!-- &exclude_days=Sun%2CSat -->
 
 <!--<p align="center">
