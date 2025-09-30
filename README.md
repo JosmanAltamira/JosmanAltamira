@@ -1,4 +1,5 @@
 <div id="header" align="center">
+  <!-- Imagen -->
   <img src="/img/osoP.png" width="100"/>
   
   <div id="badges">
