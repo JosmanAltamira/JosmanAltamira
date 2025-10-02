@@ -15,7 +15,6 @@
     <img src="https://statsjosman.vercel.app?user=JosmanAltamira&theme=transparent&hide_border=true&locale=es" alt="GitHub Streak" />
   </a>
 </p>
-<!-- &exclude_days=Sun%2CSat -->
 
 <!-- Serpiente-->
 <p align="center">
