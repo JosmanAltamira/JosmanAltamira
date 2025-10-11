@@ -1,12 +1,14 @@
 <div id="header" align="center">
   <!-- Imagen -->
   <img src="/img/osoP.png" width="100"/>
-  
+
+  <!-- Redes sociales  -->
   <div id="badges">
   <a href="https://stackoverflow.com/users/21409844/">
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Badge"/>
   </a>
 </div>
+
 </div>
 
 <!-- Racha commits  -->
